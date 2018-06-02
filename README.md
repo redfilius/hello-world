@@ -1,5 +1,5 @@
 # hello-world
-This is my time-honored hello world program.
+This is time-honored hello world program.
 
 Hi Everybody!
 
